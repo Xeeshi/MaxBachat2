@@ -1,0 +1,1402 @@
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.Design.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Gauge.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Licensing.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Zen.Barcode.Core.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.CorrrectItems.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Dashboard.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Properties.Resources.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ChildForm.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.CorrrectItems.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Dashboard.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.MainForm.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Test.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Dashboard.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.Design.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Gauge.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Licensing.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Zen.Barcode.Core.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Dashboard.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.Design.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Gauge.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Licensing.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Zen.Barcode.Core.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\First Release 4-7-19\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.Design.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Gauge.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Licensing.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Zen.Barcode.Core.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Dashboard.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.xml
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.xml
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.xml
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.xml
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.xml
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.xml
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Dashboard.resources
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Project\Project\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Dashboard.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.Design.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Gauge.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Licensing.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Zen.Barcode.Core.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Gauge.Windows.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\Developed Work\MaxBachat\MAX BACHAT\Project\MaxBachat2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\itextsharp.dll
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\SendGrid.dll
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\EnvDTE.dll
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\stdole.dll
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\itextsharp.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\SendGrid.pdb
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\SendGrid.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.Gauge.Windows.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\obj\Debug\MaxBachat2.Dashboard.resources
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\obj\Debug\Admin.Loading.resources
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\obj\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\GoogleDrive\Zeeshan - Purchasing System\MaxBachat2 (1)\MaxBachat2\obj\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.Design.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Gauge.Windows.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Licensing.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Zen.Barcode.Core.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.xml
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.xml
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.xml
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.xml
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.xml
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.xml
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.xml
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.xml
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.xml
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.xml
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Dashboard.resources
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\^GoogleDrive\Zeeshan - Purchasing System\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.Design.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Gauge.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Licensing.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Zen.Barcode.Core.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Gauge.Windows.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\Maxbachat OLD\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.Design.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Gauge.Windows.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Base.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grouping.Base.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Licensing.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Base.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Windows.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Zen.Barcode.Core.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DataSource.WinForms.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Gauge.Windows.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Base.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grouping.Base.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Base.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Windows.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DocIO.Base.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridConverter.Windows.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridHelperClasses.Windows.dll
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DocIO.Base.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridConverter.Windows.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridHelperClasses.Windows.xml
+E:\Developed Work\MaxBachat\New folder\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.Design.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DocIO.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Gauge.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridConverter.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridHelperClasses.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grouping.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Licensing.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotChart.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Zen.Barcode.Core.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DocIO.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Gauge.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridConverter.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridHelperClasses.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grouping.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotChart.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.ResolveComReference.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Edit_Item.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.Design.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DocIO.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridConverter.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridHelperClasses.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grouping.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Zen.Barcode.Core.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DocIO.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridConverter.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridHelperClasses.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grouping.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.ResolveComReference.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Edit_Item.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.MyPlan.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\System.Windows.Forms.Calendar.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\bin\Debug\System.Windows.Forms.Calendar.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.SetDOS.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.2 - Copy\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.ResolveComReference.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Edit_Item.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.MyPlan.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.SetDOS.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.Design.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DocIO.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridConverter.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridHelperClasses.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grouping.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\System.Windows.Forms.Calendar.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Zen.Barcode.Core.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DocIO.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridConverter.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridHelperClasses.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grouping.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\System.Windows.Forms.Calendar.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.Design.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DocIO.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridConverter.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridHelperClasses.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grouping.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\System.Windows.Forms.Calendar.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Zen.Barcode.Core.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DocIO.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridConverter.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridHelperClasses.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grouping.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\System.Windows.Forms.Calendar.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.ResolveComReference.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Edit_Item.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.MyPlan.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Save_Search_Dialog.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Search_Products.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.SetDOS.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.My_List.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.5\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List_Items.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.Design.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\MetroFramework.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DocIO.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridConverter.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridHelperClasses.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grouping.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\System.Windows.Forms.Calendar.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Zen.Barcode.Core.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Compression.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.DocIO.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Grouping.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grid.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridConverter.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.GridHelperClasses.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Grouping.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Linq.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Shared.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Tools.Windows.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\System.Windows.Forms.Calendar.pdb
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Chart.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.Diagram.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.PivotAnalysis.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\bin\Debug\Syncfusion.SpellChecker.Base.xml
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe.config
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.ResolveComReference.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Edit_Item.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.MyPlan.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.My_List.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List_Items.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Save_Search_Dialog.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Search_Products.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.SetDOS.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+E:\Developed Work\MaxBachat\MaxBachat _Version\Version 1.6.2\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Edit_Item.resources
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.MyPlan.resources
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.My_List.resources
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List.resources
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List_Items.resources
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Save_Search_Dialog.resources
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Search_Products.resources
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.SetDOS.resources
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+C:\Users\admin\Desktop\Version 1.5.4\Version 1.5.4\MaxBachat2\MaxBachat2\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Edit_Item.resources
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.MyPlan.resources
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.My_List.resources
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List.resources
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List_Items.resources
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Save_Search_Dialog.resources
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Search_Products.resources
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.SetDOS.resources
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Version 1.7 In Progress\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Edit_Item.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.MyPlan.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.My_List.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List_Items.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Save_Search_Dialog.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Search_Products.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.SetDOS.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7 Stable\Version 1.7\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Edit_Item.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.MyPlan.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.My_List.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List_Items.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Save_Search_Dialog.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Search_Products.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.SetDOS.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(progress)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Edit_Item.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.MyPlan.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.My_List.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List_Items.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Save_Search_Dialog.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Search_Products.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.SetDOS.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1.7.1 Stable -(Stable) New IP\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.AddNewScheduleVendor.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.AutomaticOrderingSetting.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Edit_Item.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.MyPlan.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.My_List.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List_Items.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Save_Search_Dialog.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Search_Products.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.SetDOS.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Set_Product_Dos.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 1. 8  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ScheduleLog.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.AddNewScheduleVendor.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.AutomaticOrderingSetting.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Edit_Item.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.MyPlan.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.My_List.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List_Items.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Save_Search_Dialog.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ScheduleLog.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Search_Products.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.SetDOS.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Set_Product_Dos.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control)\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.AddNewScheduleVendor.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.AutomaticOrderingSetting.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Edit_Item.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.MyPlan.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.My_List.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List_Items.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Save_Search_Dialog.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ScheduleLog.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Search_Products.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.SetDOS.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Set_Product_Dos.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.0  New IP - (Auto Control) - Copy\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Edit_Schedule_Info.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.AddNewScheduleVendor.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.AutomaticOrderingSetting.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ChildForm.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Edit_Item.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Edit_Schedule_Info.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\Admin.Loading.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.MainForm.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.MyPlan.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.My_List.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Properties.Resources.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Request_List_Items.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Save_Search_Dialog.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ScheduleLog.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Search_Products.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.ServerSwitch.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.SetDOS.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.Set_Product_Dos.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.ShowColumn.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.Test.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe.config
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.exe
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\MaxBachat2.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Net.Http.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\stdole.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\EnvDTE.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\itextsharp.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\bin\Debug\SendGrid.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Version 2.2 (Auto Control) - Latest\Version 1.7.1\MaxBachat2\MaxBachat2\obj\Debug\MaxBachat21.csproj.CopyComplete
